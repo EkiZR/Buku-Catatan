@@ -1,1 +1,3 @@
-nama = 1 + 1;
+/* abaikan */
+tes = 1 + 1 ;
+console.log(tes); 
